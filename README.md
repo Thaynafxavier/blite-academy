@@ -6,24 +6,24 @@
 
 <p align="center">
   <h3>STEP 1</h3>
-  <img src="./git-img/step1/image1.jpeg" height="800">
-  <img src="./git-img/step1/image2.jpeg" height="800">
-  <img src="./git-img/step1/image3.jpeg" height="800"><br><br>
+  <img src="./git-img/step1/image2.jpeg">
+  <img src="./git-img/step1/image1.jpeg">
+  <img src="./git-img/step1/image3.jpeg"><br><br>
 
   <h3>STEP 2</h3>
-  <img src="./git-img/step2/image1.jpeg" height="800">
-  <img src="./git-img/step2/image2.jpeg" height="800"><br><br>
+  <img src="./git-img/step2/image1.jpeg">
+  <img src="./git-img/step2/image2.jpeg"><br><br>
 
   
   <h3>STEP 3</h3>
-  <img src="./git-img/step3/image1.jpeg" height="800">
-  <img src="./git-img/step3/image2.jpeg" height="800">
-  <img src="./git-img/step3/image3.jpeg" height="800">
-  <img src="./git-img/step3/image4.jpeg" height="800"><br><br>
+  <img src="./git-img/step3/image1.jpeg">
+  <img src="./git-img/step3/image2.jpeg">
+  <img src="./git-img/step3/image3.jpeg">
+  <img src="./git-img/step3/image4.jpeg"><br><br>
 
   <h3>STEP 4</h3>
-  <img src="./git-img/step4/image1.jpeg" height="800">
-  <img src="./git-img/step4/image2.jpeg" height="800"><br><br>
+  <img src="./git-img/step4/image1.jpeg">
+  <img src="./git-img/step4/image2.jpeg"><br><br>
 </p>
 <br/>
 
