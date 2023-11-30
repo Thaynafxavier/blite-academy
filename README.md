@@ -1,6 +1,6 @@
 <h1 align="center">🚀 BLITE ACADEMY 🚀</h1>
 
-<p align="center">O projeto BLITE ACADEMY se trata de uma pequena demonstração que fiz do site da Blite Academy voltado para a mulheres, então usei apenas modelos femininas para mostrar durante a entrevista, a fim de demonstrar minha proficiência nas linguagens de HTML e CSS. Espero que gostem!! 😄😄</p>
+<p align="center">O projeto BLITE ACADEMY se trata de uma pequena demonstração que fiz do site da Blite Academy voltado para a mulheres, então usei apenas modelos femininas para mostrar durante a entrevista, a fim de demonstrar minha proficiência e capacidade de correr atrás do que é necessário. Espero que gostem!! 😄😄</p>
 
 ## :camera: Demonstração
 
@@ -50,7 +50,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 1- Clonar o repositório na sua máquina
 > git clone https://github.com/Thaynafxavier/blite-academy.git
 
-2- Abrir o arquivo index.html no seu navegador
+2- Abrir o arquivo fase01.html no seu navegador
 
 3- E pronto, você já pode testar o projeto localmente no seu navegador
 
