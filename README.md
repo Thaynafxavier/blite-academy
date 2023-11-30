@@ -23,7 +23,7 @@
 
   <h2 align="center">STEP 4</h2>
   <img src="./git-img/step4/image1.jpeg">
-  <img src="./git-img/step4/image2.jpeg"><br><br>
+  <img src="./git-img/step4/image2.jpeg"><br>
 </p>
 <br/>
 
