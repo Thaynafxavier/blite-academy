@@ -42,7 +42,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ CSS3
 
-- ✔️ GitHubPages
+- ✔️ Git
 
 
 ## ⚙ Configuração para rodar o projeto localmente
